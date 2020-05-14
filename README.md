@@ -2,6 +2,10 @@
 
 ## how to run :
 
+### clone this project
+`git clone https://github.com/G3idaa/QuranCompetitionManager`
+
+
 ### install Nodejs and make sure npm is in your path :
 https://nodejs.org/en/download/
 
