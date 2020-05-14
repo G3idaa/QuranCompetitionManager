@@ -24,10 +24,12 @@ install pipenv
 
 run :
 
-`pipenv install`
-`pipenv shell`
-`cd backend`
-`python manage.py runserver`
+```
+pipenv install
+pipenv shell
+cd backend
+python manage.py runserver
+```
 
 The backend server should be on : http://127.0.0.1:8000/
 open another terminal.
